@@ -1,7 +1,5 @@
 '''
-    File Name: 18F(810).py
     Script Author: Vignesh Mohan
-    Purpose: Programming final exam Assignment.
     Python Version: 3.0
 '''
 
